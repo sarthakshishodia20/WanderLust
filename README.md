@@ -1,4 +1,5 @@
 # WanderLust
+
 # 🏕️ Wanderlust — Ek Airbnb Jaisa Full Stack Project
 
 **Wanderlust** ek full-stack web app hai jahan users apna khud ka hotel ya stay list kar sakte hain, reviews de sakte hain, aur location map pe dekh sakte hain — bilkul Airbnb jaisa experience!
@@ -83,6 +84,27 @@ Wanderlust ek **Airbnb-clone** hai jisme user:
 
 ---
 
+## 🧠 Analytics & User Privacy
+
+### 🔍 Google Analytics:
+- Realtime & behavior data dekha ja sakta hai via GA Dashboard:  
+👉 [Google Analytics Realtime](https://analytics.google.com/analytics/web/#/p465506423/realtime/pages?params=_u..nav%3Dmaui)
+
+### 👁️ Microsoft Clarity:
+- Session replays, heatmaps & user interactions analyze karne ke liye use hota hai:  
+👉 [Clarity Dashboard](https://clarity.microsoft.com/projects)
+
+#### 🛡️ Privacy & Consent Notice:
+This project uses **Google Analytics** and **Microsoft Clarity** for analyzing user behavior and improving experience.  
+✅ Tracking scripts **only load after user consents** via a cookie consent banner.  
+✅ No personally identifiable information is collected.  
+✅ Users can opt out anytime by clearing site data or blocking cookies.
+
+> Developer Email for Clarity: `sarthakshishodia2004@gmail.com`  
+> Clarity Project ID: `ruv8xf3cgh`
+
+---
+
 ## 🚀 Setup Kaise Karein?
 
 ### 1️⃣ Clone karo repo:
@@ -90,12 +112,3 @@ Wanderlust ek **Airbnb-clone** hai jisme user:
 ```bash
 git clone https://github.com/your-username/wanderlust.git
 cd wanderlust
-
-
-Google Analytics
-https://analytics.google.com/analytics/web/#/p465506423/realtime/pages?params=_u..nav%3Dmaui
-
-MICROSOFT CLARITY ANALYSIS DEEPLY
-https://clarity.microsoft.com/projects
-
-with sarthakshishodia2004@gmail.com
